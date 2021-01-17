@@ -1,12 +1,13 @@
 ### Hi there 👋 I'm Henry
 
+<img align="right" src="https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 - 🔭 I’m currently working on... eh... examination?
 - 🌱 I’m currently learning C++ and computer science
 - 📫 How to reach me: zhengke@bytecho.net
 
 🔗 https://www.bytecho.net
 
-<img align="right" src="https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <!--
 **CSTHenry/CSTHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
