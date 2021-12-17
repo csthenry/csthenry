@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 🔭 I’m currently preparing for... eh... the Graduate Entrance Exam!
+- 🔭 I’m currently preparing for... the Graduate Entrance Exam!
 - 🌱 I’m currently learning C++、Java、Py、SQL...? and computer science.
-- 📫 How to reach me: zhengke@bytecho.net、csthenry@foxmail.com
+- 📫 How to reach me: csthenry@foxmail.com
 
 🔗 https://www.bytecho.net
 
