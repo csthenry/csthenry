@@ -1,3 +1,7 @@
+### 🔎 Github Profile Details
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csthenry&theme=github" alt="csthenry" align = "center"/></p>
+
 ### Hi there 👋 I'm Henry
 
 <img align="right" src="https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
