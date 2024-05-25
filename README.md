@@ -6,8 +6,8 @@
 
 <img align="right" src="https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 🔭 Computer Science; Software Engineer.
-- 🏫 Chongqing University of Posts and Telecommunications.
+- 🔭 Computer Science & Materials Science
+- 🏫 Chongqing Jiaotong University
 - 📫 How to reach me: csthenry@foxmail.com
 
 🔗 To be added...
