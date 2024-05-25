@@ -4,7 +4,7 @@
 
 ### Hi there 👋 I'm Henry
 
-<img align="right" src="https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=csthenry&theme=github" />
 
 - 🔭 Computer Science & Materials Science
 - 🏫 Chongqing Jiaotong University
